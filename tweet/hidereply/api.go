@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/hidereply/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/tweet/hidereply/types"
 )
 
 const updateEndpoint = "https://api.twitter.com/2/tweets/:id/hidden"

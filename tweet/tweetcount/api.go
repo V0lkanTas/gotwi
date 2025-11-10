@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/tweetcount/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/tweet/tweetcount/types"
 )
 
 const (

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/media/upload/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/media/upload/types"
 )
 
 const (

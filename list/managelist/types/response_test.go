@@ -3,7 +3,7 @@ package types_test
 import (
 	"testing"
 
-	"github.com/michimani/gotwi/list/managelist/types"
+	"github.com/V0lkanTas/gotwi/list/managelist/types"
 	"github.com/stretchr/testify/assert"
 )
 

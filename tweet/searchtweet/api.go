@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/searchtweet/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/tweet/searchtweet/types"
 )
 
 const (

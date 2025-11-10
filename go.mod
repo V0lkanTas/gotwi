@@ -1,6 +1,6 @@
 module github.com/V0lkanTas/gotwi
 
-go 1.22
+go 1.23.0
 
 require github.com/stretchr/testify v1.7.0
 

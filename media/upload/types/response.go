@@ -1,6 +1,6 @@
 package types
 
-import "github.com/michimani/gotwi/resources"
+import "github.com/V0lkanTas/gotwi/resources"
 
 // InitializeOutput is the output for the Initialize endpoint.
 type InitializeOutput struct {

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/michimani/gotwi/media/upload/types"
+	"github.com/V0lkanTas/gotwi/media/upload/types"
 	"github.com/stretchr/testify/assert"
 )
 

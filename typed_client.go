@@ -5,8 +5,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/michimani/gotwi/internal/util"
-	"github.com/michimani/gotwi/resources"
+	"github.com/V0lkanTas/gotwi/internal/util"
+	"github.com/V0lkanTas/gotwi/resources"
 )
 
 type TypedClient[T util.Response] struct {

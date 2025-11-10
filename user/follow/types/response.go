@@ -1,6 +1,6 @@
 package types
 
-import "github.com/michimani/gotwi/resources"
+import "github.com/V0lkanTas/gotwi/resources"
 
 type ListFollowingsOutput struct {
 	Data     []resources.User         `json:"data"`

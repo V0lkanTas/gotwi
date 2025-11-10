@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/compliance/batchcompliance/types"
-	"github.com/michimani/gotwi/internal/util"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/compliance/batchcompliance/types"
+	"github.com/V0lkanTas/gotwi/internal/util"
 	"github.com/stretchr/testify/assert"
 )
 

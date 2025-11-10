@@ -5,9 +5,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/internal/util"
-	"github.com/michimani/gotwi/space/spacelookup/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/internal/util"
+	"github.com/V0lkanTas/gotwi/space/spacelookup/types"
 	"github.com/stretchr/testify/assert"
 )
 

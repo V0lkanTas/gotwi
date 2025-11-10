@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/michimani/gotwi/internal/util"
-	"github.com/michimani/gotwi/resources"
+	"github.com/V0lkanTas/gotwi/internal/util"
+	"github.com/V0lkanTas/gotwi/resources"
 	"github.com/stretchr/testify/assert"
 )
 

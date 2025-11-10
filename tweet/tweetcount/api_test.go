@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/internal/util"
-	"github.com/michimani/gotwi/tweet/tweetcount/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/internal/util"
+	"github.com/V0lkanTas/gotwi/tweet/tweetcount/types"
 	"github.com/stretchr/testify/assert"
 )
 

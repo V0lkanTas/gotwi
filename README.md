@@ -1,9 +1,9 @@
 gotwi
 ===
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/michimani/gotwi.svg)](https://pkg.go.dev/github.com/michimani/gotwi)
+[![Go Reference](https://pkg.go.dev/badge/github.com/V0lkanTas/gotwi.svg)](https://pkg.go.dev/github.com/V0lkanTas/gotwi)
 [![Twitter API v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
-[![codecov](https://codecov.io/gh/michimani/gotwi/branch/main/graph/badge.svg?token=NA873TE6RV)](https://codecov.io/gh/michimani/gotwi)
+[![codecov](https://codecov.io/gh/V0lkanTas/gotwi/branch/main/graph/badge.svg?token=NA873TE6RV)](https://codecov.io/gh/V0lkanTas/gotwi)
 
 This is a library for using the Twitter API v2 in the Go language. (It is still under development).
 
@@ -112,10 +112,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/fields"
-	"github.com/michimani/gotwi/user/userlookup"
-	"github.com/michimani/gotwi/user/userlookup/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/fields"
+	"github.com/V0lkanTas/gotwi/user/userlookup"
+	"github.com/V0lkanTas/gotwi/user/userlookup/types"
 )
 
 func main() {
@@ -184,9 +184,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/tweet/managetweet"
-	"github.com/michimani/gotwi/tweet/managetweet/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/tweet/managetweet"
+	"github.com/V0lkanTas/gotwi/tweet/managetweet/types"
 )
 
 func main() {
@@ -250,10 +250,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/michimani/gotwi"
-	"github.com/michimani/gotwi/fields"
-	"github.com/michimani/gotwi/user/userlookup"
-	"github.com/michimani/gotwi/user/userlookup/types"
+	"github.com/V0lkanTas/gotwi"
+	"github.com/V0lkanTas/gotwi/fields"
+	"github.com/V0lkanTas/gotwi/user/userlookup"
+	"github.com/V0lkanTas/gotwi/user/userlookup/types"
 )
 
 func main() {
@@ -369,12 +369,12 @@ if err != nil {
 
 ## More examples
 
-See [_examples](https://github.com/michimani/gotwi/tree/main/_examples) directory.
+See [_examples](https://github.com/V0lkanTas/gotwi/tree/main/_examples) directory.
 
 ## Contributors
 
-<a href="https://github.com/michimani/gotwi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=michimani/gotwi" />
+<a href="https://github.com/V0lkanTas/gotwi/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=V0lkanTas/gotwi" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
@@ -382,7 +382,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 # Licence
 
-[MIT](https://github.com/michimani/gotwi/blob/main/LICENCE)
+[MIT](https://github.com/V0lkanTas/gotwi/blob/main/LICENCE)
 
 # Author
 
