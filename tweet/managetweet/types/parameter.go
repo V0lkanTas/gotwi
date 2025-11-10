@@ -22,6 +22,7 @@ type CreateInput struct {
 	Reply                 *CreateInputReply `json:"reply,omitempty"`
 	ReplySettings         *string           `json:"reply_settings,omitempty"`
 	Text                  *string           `json:"text,omitempty"`
+	CommunityID	          *string           `json:"community_id,omitempty"`
 }
 
 type CreateInputGeo struct {
